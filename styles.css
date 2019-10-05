@@ -1,13 +1,32 @@
-.text{
-  font-family: georgia, garamond;
-  font-size: 15px;
-  color: white;
+
+.navbar{
+  background-color: #12151a;
+}
+.collapse .navbar-nav .nav-item{
+  color: #fcfcfc;
 }
 
-#cover{
-  background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)),
-  url('images/home.jpg');
-  width: 100%;
-  height: 100%;
-  background-size: cover;
+.intro{
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 20px;
+  color: #fcfcfc;
+  margin-top: 6px;
+}
+
+.carousel .carousel-item{
+  height: 600px;
+}
+
+.table{
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Helvetica;
+}
+
+#interests{
+  font-family: Helvetica;
+  margin-top: 50px;
+  color: #fcfcfc;
 }
