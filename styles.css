@@ -6,6 +6,9 @@
   color: #fcfcfc;
 }
 
+body {
+  background-color: #12151a;
+}
 .intro{
   text-align: center;
   font-family: Helvetica;
