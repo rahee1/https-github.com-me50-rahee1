@@ -6,6 +6,12 @@
   color: $color;
 }
 
+@media (max-width: 499px;) {
+body{
+  background-color: red;
+}
+}
+
 body {
   background-color: #3e4247;
 }
